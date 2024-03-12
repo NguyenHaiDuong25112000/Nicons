@@ -1,0 +1,225 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?2u35ju');
+  src:  url('../fonts/icomoon.eot?2u35ju#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?2u35ju') format('truetype'),
+    url('../fonts/icomoon.woff?2u35ju') format('woff'),
+    url('../fonts/icomoon.svg?2u35ju#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-014-zoom:before {
+  content: "\f10e";
+}
+.icon-015-link:before {
+  content: "\f10f";
+}
+.icon-016-share:before {
+  content: "\f110";
+}
+.icon-029-measure:before {
+  content: "\f11d";
+}
+.icon-031-engineer-1:before {
+  content: "\f11f";
+}
+.icon--sketch:before {
+  content: "\f101";
+}
+.icon--construction:before {
+  content: "\f102";
+}
+.icon--roof:before {
+  content: "\f103";
+}
+.icon--interior-design:before {
+  content: "\f104";
+}
+.icon--maintenance:before {
+  content: "\f105";
+}
+.icon--renovation:before {
+  content: "\f106";
+}
+.icon--remodeling:before {
+  content: "\f107";
+}
+.icon--engineer:before {
+  content: "\f108";
+}
+.icon--trowel:before {
+  content: "\f109";
+}
+.icon--worker:before {
+  content: "\f10a";
+}
+.icon--guarantee:before {
+  content: "\f10b";
+}
+.icon--folder-management:before {
+  content: "\f10c";
+}
+.icon--quotation:before {
+  content: "\f10d";
+}
+.icon--zoom:before {
+  content: "\f111";
+}
+.icon--link:before {
+  content: "\f112";
+}
+.icon--share:before {
+  content: "\f113";
+}
+.icon--worker-1:before {
+  content: "\f114";
+}
+.icon--building:before {
+  content: "\f115";
+}
+.icon--skyscrapers:before {
+  content: "\f116";
+}
+.icon--building-1:before {
+  content: "\f117";
+}
+.icon--budget:before {
+  content: "\f118";
+}
+.icon--newspaper:before {
+  content: "\f119";
+}
+.icon--telephone:before {
+  content: "\f11a";
+}
+.icon--blueprint:before {
+  content: "\f11b";
+}
+.icon--interior-design-1:before {
+  content: "\f11c";
+}
+.icon--architecture:before {
+  content: "\f11e";
+}
+.icon--planning:before {
+  content: "\f120";
+}
+.icon--check-list:before {
+  content: "\f121";
+}
+.icon--measure:before {
+  content: "\f122";
+}
+.icon--cube:before {
+  content: "\f123";
+}
+.icon--engineer-1:before {
+  content: "\f124";
+}
+.icon--apartment:before {
+  content: "\f125";
+}
+.icon--back-button:before {
+  content: "\f126";
+}
+.icon--right:before {
+  content: "\f127";
+}
+.icon--right-1:before {
+  content: "\f128";
+}
+.icon--check-mark:before {
+  content: "\f129";
+}
+.icon--search:before {
+  content: "\f12a";
+}
+.icon--close-circular-button-symbol:before {
+  content: "\f12b";
+}
+.icon--menu:before {
+  content: "\f12c";
+}
+.icon--left-arrow-line-symbol:before {
+  content: "\f12d";
+}
+.icon--right-arrow-angle:before {
+  content: "\f12e";
+}
+.icon--checkmark-verify-interface-symbol-button:before {
+  content: "\f12f";
+}
+.icon--recycling-bin:before {
+  content: "\f130";
+}
+.icon--magnifying-glass:before {
+  content: "\f131";
+}
+.icon--play-button:before {
+  content: "\f132";
+}
+.icon--magnifiying-glass:before {
+  content: "\f133";
+}
+.icon--fast-forward:before {
+  content: "\f134";
+}
+.icon--next:before {
+  content: "\f135";
+}
+.icon--right-arrow:before {
+  content: "\f136";
+}
+.icon--right-arrow-1:before {
+  content: "\f137";
+}
+.icon--checkmark:before {
+  content: "\f138";
+}
+.icon--comment:before {
+  content: "\f139";
+}
+.icon--next-1:before {
+  content: "\f13a";
+}
+.icon--back:before {
+  content: "\f13b";
+}
+.icon--plus:before {
+  content: "\f13c";
+}
+.icon--minus:before {
+  content: "\f13d";
+}
+.icon--cancel:before {
+  content: "\f13e";
+}
+.icon--map:before {
+  content: "\f13f";
+}
+.icon--telephone-1:before {
+  content: "\f140";
+}
+.icon--message:before {
+  content: "\f141";
+}
+.icon--right-arrow-2:before {
+  content: "\f142";
+}
