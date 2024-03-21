@@ -22,7 +22,23 @@
   * flat-about-box
   * flat-Preloader
 */
+:root {
+	--white: #ffffff;
+	--black: #000000;
+	--primary: #b80000;
+	--secondary: #7A7F86;
+	--secondary-one: #D1D1D1;
+	--success: #181818;
+	--Background: #F5F5F5;
+	--line: #1B1B1B4D;
+	--line-one: #EFEFEF;
+	--surface: #040708;
+	--linear: #DBDBDB;
+	--linear-one: #D9D9D921;
+	--linear-two: #FFFFFF14;
+	--meta-tag: #1B1B1B;
 
+}
 /* Button
 -------------------------------------------------------------- */
 .flat-button {	
