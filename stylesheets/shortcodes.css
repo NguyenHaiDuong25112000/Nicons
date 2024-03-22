@@ -3058,8 +3058,12 @@
 }
 
 
+.left {
+    padding: 32px 52px;
+}
 
-
-
-
+li.nav-item {
+    float: left;
+    margin: 0px 20px;
+}
 

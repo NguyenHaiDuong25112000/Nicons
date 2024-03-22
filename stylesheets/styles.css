@@ -301,6 +301,11 @@ html {
   
   #header-menu{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #menu{
+    display: flex;
   }
   a {
 	text-decoration: none;
