@@ -552,6 +552,33 @@ html {
   /*------------ form ---------------- */
   /*------------ carousel ---------------- */
   /*------------ footer ---------------- */
+  .row{
+    display: flex;
+  }
+  .social-icon-footer a {
+    width: 14px;
+    height: 14px;
+    border-radius: 100px;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    line-height: 42px;
+    margin-right: 20px;
+
+  }
+  .social-icon-footer a {
+    background-color: #FFFFFF0A;
+  }
+  .social-icon-footer i {
+    background-color: var(--white);
+  }
+  .social-icon-footer a:hover {
+    background-color: var(--primary);
+  }
+  .widget-title{
+    color: var(--white);
+  }
+  
   /*--------------- widget ---------------- */
   .text-aaa {
 	color: #D01818;
