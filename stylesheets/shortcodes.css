@@ -37,6 +37,7 @@
 	--linear-one: #D9D9D921;
 	--linear-two: #FFFFFF14;
 	--meta-tag: #1B1B1B;
+	--text-footer: #D1D1D1;
 
 }
 /* Container 
@@ -3086,20 +3087,98 @@ li.nav-item {
 	background-color: var(--black);
 	padding: 85px 0px 28px 0px;
 }
-.textwidget{
+.widget-title{
 	color: var(--white);
-	padding: 20px 0px;
+	font-family: "Play" , sans-serif;
+	font-size: 22px;
+	line-height: 44px;
+	font-weight: 700;
+	text-transform: uppercase;
 }
-.icon--telephone{
-	color: var(--primary);
-	font-size: 25px;
-    margin: 7px 14px 0px 0px;
+.widget-text{
+	margin: 0px 80px 0px 0px;
+}
+.text-footer{
+	color: var(--white);
+	font-family: "DM Sans" , sans-serif;
+	font-size: 18px;
+	line-height: 35px;
+	font-weight: 400;
+	text-transform: capitalize;
+	padding: 35px 0px;
+}
+.social-icon-footer a {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    line-height: 45px;
+    margin-right: 20px;
+}
+/* footer-info */
+.widget_info{
+	margin: 0px 65px 0px 0px;
 }
 .footer-info{
 	color: var(--white);
-	font: "DM Sans";
+	font-family: "DM Sans" , sans-serif;
 	font-size: 18px;
-	line-height: 44px;
-	font-weight: 500;
-	padding: 20px 0px 0px 0px;
+	line-height: 35px;
+	font-weight: 400;
+	padding: 37px 0px 0px;
+}
+.telephone-footer{
+	margin: 0px 0px 15px;
+}
+.icon--telephone{
+	color: var(--primary);
+	font-size: 20px;
+    margin: 0px 14px 0px 0px;
+}
+.telephone-number{
+	color: var(--white);
+	font-family: "DM Sans", sans-serif;;
+	font-size: 18px;
+	line-height: 18px;
+	font-weight: 400;
+	text-decoration: underline;
+}
+.email-footer{
+	margin: 0px 14px 9px 0px;
+}
+.icon-email-footer{
+    margin: 0px 14px 21px 0px;
+}
+.email-footer{
+	color: var(--menu-);
+	font-family: "DM Sans", sans-serif;;
+	font-size: 18px;
+	line-height: 29px;
+	font-weight: 400;
+	text-decoration: underline;
+}
+.address-footer{
+	margin: 0px 0px 10px 0px;
+}
+.icon-address-footer{
+    margin: 0px 14px 0px 0px;
+}
+/* footer-menu */
+.widget-menu-footer{
+	margin: 0px 120px 0px 0px;
+}
+.menu-footer li a{ 
+	color: var(--text-footer);
+	font-family: "DM Sans", sans-serif;
+	font-size: 18px;
+	line-height: 45px;
+	font-weight: 400;
+}
+.menu-footer li a:hover{
+	color: var(--primary);
+}
+.menu-footer{
+	margin: 15px 0px 0px;
 }
