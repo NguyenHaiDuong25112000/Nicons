@@ -299,7 +299,8 @@ html {
 	width: 100%;
   }
 
-  
+  /* header
+	-------------------------------------------------------------- */
   #header-menu{
     display: flex;
     justify-content: space-between;
@@ -555,7 +556,6 @@ html {
   .row{
     display: flex;
   }
-
   .social-icon-footer a {
     background-color: #FFFFFF0A;
   }
@@ -583,6 +583,15 @@ html {
   .menu-footer{
     display: block;
   }
+  .input-new-letter{
+    display: flex;
+  }
+  /* footer bottom */
+  .row-footer-bottom{
+    display: flex;
+    justify-content: space-between;
+  }
+  
   
   /*--------------- widget ---------------- */
   .text-aaa {
